@@ -1,6 +1,6 @@
 {
   "name": "kefka",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/ffsix/kefka.git",
   "author": "Shawn Presser <shawnpresser@gmail.com>",
